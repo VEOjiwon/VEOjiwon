@@ -25,7 +25,7 @@ I believe that AI makes life better<br/>
 
 <h3 align="center"> My Most Used Languages </h3>
 <p align="center">
-  <a href="https://github.com/Easy-Hwan">
+  <a href="https://github.com/VEOjiwon">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
   </a>
 </p>
@@ -39,10 +39,9 @@ I believe that AI makes life better<br/>
 <br>
 <h3 align="center"> My Git View Count </h3>
 <p align="center">
- <!-- Blog View Count -->
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%VEOjiwon&count_bg=%2357C2A0&title_bg=%230A8A5A&icon=bloglovin.svg&icon_color=%23FFFFFF&title=Blog&edge_flat=false"/></a> -->
+
 <!-- Git View Count -->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%VEOjiwon&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVEOjiwon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=&edge_flat=true"/></a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
