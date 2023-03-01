@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
-
 <h2 align="center"> Hi there👋</h2>
 <h3 align="center">I am graduate school student in 🇰🇷</h3>
 <p align="center">
