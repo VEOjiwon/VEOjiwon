@@ -2,10 +2,8 @@
 <h3 align="center">I am graduate school student in 🇰🇷</h3>
 <p align="center">
 I believe that AI makes life better<br/>
-<br/><br/>
-  
+<br/>
 </p>
-
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-ffb13b?style=flat&logo=python&logoColor=white"/></a>&nbsp 
