@@ -23,16 +23,16 @@ I believe that AI makes life better<br/>
 </p>
   
 
-<h3 align="center"> My Most Used Languages </h3>
+<h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/VEOjiwon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
+  <a href="https://github.com/$VEOjiwon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=$VEOjiwon&layout=compact&show_icons=$true&show_owner=$true&hide_title=$false&theme=$nord" />
   </a>
 </p>
 <h3 align="center"> My Git Stats </h3>
 <p align="center">
   <a href="https://github.com/VEOjiwon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Easy-Hwan&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VEOjiwon&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
   
