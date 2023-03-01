@@ -2,6 +2,8 @@
 <h3 align="center">I am graduate school student in 🇰🇷</h3>
 <p align="center">
 I believe that AI makes life better<br/>
+Connect with me on <a href="https://www.linkedin.com/in/jiwon-kim-04839b229/">LinkedIn</a>
+
 <br/>
 </p>
 <h3 align="center"> Tech Stack </h3>
