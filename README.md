@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there👋</h2>
+<h2 align="center"> Hi there 👋</h2>
 <h3 align="center">I am AI graduate school student in GIST 🇰🇷 </h3>
 <p align="center">
 I believe that AI makes life better<br/>
