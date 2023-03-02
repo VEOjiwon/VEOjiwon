@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there👋</h2>
-<h3 align="center">I am graduate school student in GIST 🇰🇷 </h3>
+<h3 align="center">I am AI graduate school student in GIST 🇰🇷 </h3>
 <p align="center">
 I believe that AI makes life better<br/>
 Connect with me on <a href="https://www.linkedin.com/in/jiwon-kim-04839b229/">LinkedIn</a>
