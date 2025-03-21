@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there 👋</h2>
-<h3 align="center">I am AI graduate school student in GIST 🇰🇷 </h3>
+<h3 align="center">I am AI Engineer at Samsung Research </h3>
 <p align="center">
 I believe that AI makes life better<br/>
 Connect with me on <a href="https://www.linkedin.com/in/jiwon-kim-04839b229/">LinkedIn</a>
@@ -15,10 +15,9 @@ Connect with me on <a href="https://www.linkedin.com/in/jiwon-kim-04839b229/">Li
 </p>
 <h3 align="center"> Research Interest </h3>
 <p align="center">
-  Sound event detetction <br/>
-  Sound event classification <br/>
-  Semi-supervised learning <br/>
-  Multi-modal learning <br/>
+  Large Language Models <br/>
+  Reinforcement Learning <br/>
+  Sound Event Detetction <br/>
 </p>
   
 
